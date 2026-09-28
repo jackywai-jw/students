@@ -1,11 +1,10 @@
 [
   {
-
-    "name": "John Doe",
+    "name": "Jacky Ng",
     "cohort": 1,
-    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=John+Doe"
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Jacky+Ng"
   },
-  
+
   {
     "name": "Jane Doe",
     "cohort": 1,
